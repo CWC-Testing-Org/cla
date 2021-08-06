@@ -7,7 +7,7 @@
 
 Thank you for your interest in contributing to Platform.sh. As with many other open source projects, we will need you to complete a Contributor License Agreement (“CLA”) so we can add you to our list of approved contributors and review any changes you propose. 
 
-Note that the following CLA is not a transfer of copyright ownership, but rather a license agreement for your contributions. For clarification, you do not change your rights to use your own contributions for any other purpose.This CLA may cover more than one software project managed by Platform.sh.
+Note that the following CLA is not a transfer of copyright ownership, but rather a license agreement for your contributions. For clarification, you do not change your rights to use your own contributions for any other purpose. This CLA may cover more than one software project managed by Platform.sh.
 
 ## Applicable Terms of Agreement
 
